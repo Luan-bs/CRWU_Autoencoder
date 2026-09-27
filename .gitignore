@@ -1,0 +1,21 @@
+# Ambientes virtuais
+.venv/
+env/
+venv/
+data/ 
+outputs/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
